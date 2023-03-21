@@ -1,0 +1,15 @@
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\bin\Debug\net7.0\ShopManager.exe
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\bin\Debug\net7.0\ShopManager.deps.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\bin\Debug\net7.0\ShopManager.runtimeconfig.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\bin\Debug\net7.0\ShopManager.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\bin\Debug\net7.0\ShopManager.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.csproj.AssemblyReference.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.AssemblyInfoInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.AssemblyInfo.cs
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.csproj.CoreCompileInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\refint\ShopManager.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ShopManager.genruntimeconfig.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-05-2027-mathias.gillet\ShopManager\obj\Debug\net7.0\ref\ShopManager.dll
